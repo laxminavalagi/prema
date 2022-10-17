@@ -1,0 +1,5 @@
+AIML=AIML stand for artificial intligence and machine learning
+AI contian two words such as Artificial and Intligence
+Artificial stand for man made
+Intligence stand for thinking power
+since Artificial stand for "man made thinking power"
